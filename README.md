@@ -1,5 +1,5 @@
 👋 Hi, I’m @timamprogrammieren
-I'm a B.A. E-Commerce student with a strong passion for Data Science and Machine Learning, especially for applications in E-Commerce. My journey started with introductory modules during my 3rd and 4th semesters, sparking a desire to delve deeper into the technical aspects of data and analytics.
+I'm a Bachelor Digital Business student with a strong passion for Data Science and Machine Learning. My journey started with introductory modules during my 3rd and 4th semesters, sparking a desire to delve deeper into the technical aspects of data and analytics.
 
 🔍 Interests:
 
